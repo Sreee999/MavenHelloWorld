@@ -7,7 +7,7 @@ public class TestHelloWorld {
 	@Test
 	public void testHelloWorld() {
 		
-		System.out.println("****** Testing Hello World!!! *****************");
+		System.out.println("***Hai*** Testing Hello World!!! ********Hai*********");
 	}
 
 }
